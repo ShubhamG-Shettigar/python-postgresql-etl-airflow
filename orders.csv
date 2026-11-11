@@ -1,0 +1,14 @@
+id,name,order_name,order_price,status
+101,Rahul,Laptop,55000,PLACED
+102,Priya,Mobile,25000,SHIPPED
+103,Amit,Monitor,15000,DELIVERED
+104,Neha,Keyboard,-500,PLACED
+105,Sam,Mouse,1200,INVALID
+106,,Headphones,2500,PLACED
+107,Ravi,Tablet,18000,delivered
+108,Kiran,Camera,abc,PLACED
+109,Arjun,Smartwatch,8500,PLACED
+110,Meera,Tablet,22000,SHIPPED
+111,Karan,Speaker,4500,DELIVERED
+112,Anita,Printer,12000,CANCELLED
+113,Vikram,Monitor,18000,PLACED
